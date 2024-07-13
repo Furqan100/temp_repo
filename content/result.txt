@@ -1,0 +1,1 @@
+the content in the file is going to be :hello this is first text file hello this is second txt file
